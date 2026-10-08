@@ -1,0 +1,9 @@
+{
+  "name": "si5b-kuis1-gerrard-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix ./si5b_kuis1_gerrard start",
+    "dev": "npm --prefix ./si5b_kuis1_gerrard run dev"
+  }
+}

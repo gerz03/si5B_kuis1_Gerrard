@@ -1,0 +1,27 @@
+{
+  "name": "si5c_kuis1_gerrard",
+  "version": "1.0.0",
+  "description": "RESTful API ekspedisi paket kiriman dengan arsitektur Route-Middleware-Controller-Model",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "shipments",
+    "ekspedisi"
+  ],
+  "author": "Gerrard",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
